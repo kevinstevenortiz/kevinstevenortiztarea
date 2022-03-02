@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.titulo {
+        color: blueviolet;
+        font-family:  'Indie Flower', cursive;
+        font-size:xx-large;
+        font-style: italic;
+        font-weight: 200;
+        text-transform:capitalize;
+        
+}
+h1{
+
+     text-transform: uppercase;   
+}
+h2{
+        text-transform: lowercase;
+}
+h3{
+        text-transform:capitalize ;
+}
+h4{
+      text-decoration:underline;
+}
+h5{
+        text-decoration: line-through;
+}
+h6{
+        text-decoration:overline;
+}
+p{
+        font-family:"Hubballi" cursive;
+        background-color:aqua;
+        width: 300px;
+        height: 100px;
+
+}
+#hu{
+        word-spacing:2rem;
+}
+#ha{
+        word-spacing:100px;
+}
