@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.tipo{
+    text-align: center;
+    font-size:2.5rem;
+  
+    
+}
+.tipo2{
+   
+    background:#B5C2CA;
+}
+h2{
+    font-size: 200%;
+    background: #7B919C;
+    color: #435561;
+    text-decoration: underline;
+    
+}
+p{
+    background:#B5C2CA ;
+}
+b{
+    color:#0074AD;
+    font-weight:normal;
+}
+h3{
+    font-style: italic;
+    font-size: 21px;
+    background: #98AAB3;
+    color: #576B77;
+}
+x{
+    color: #0088CB;
+    font-weight: 3px;
+}

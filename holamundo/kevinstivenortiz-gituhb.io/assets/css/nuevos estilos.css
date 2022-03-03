@@ -1,0 +1,68 @@
+#titulo{
+    text-align: center;
+    font-weight: bold 4rem;
+    font-size:rem;
+    letter-spacing: 10PX;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#subtitulo{
+    margin-left: 12rem;
+    margin-right: 12rem;
+    font-size: 2rem;
+    background: rgb(109, 109, 109);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.imagen{
+    
+    margin-left: 23rem;
+    float: left;
+    
+}
+.formato{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-left: 23rem;
+    margin-right: 23rem;
+    text-indent: 2rem;
+    
+}
+.forma{
+    margin-left: 23rem;
+    margin-right: 23rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-indent: 2rem;
+}
+#subtitulo2{
+    margin-left: 12rem;
+    margin-right: 12rem;
+    font-size: 2rem;
+    background: rgb(109, 109, 109);
+    color: white;
+
+}
+.imagen2{
+    margin-left: 24.5rem;
+    float: left;
+    
+}
+.tipol{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-left: 23rem;
+    margin-right: 23rem;
+    text-indent: 2rem;
+}
+a{
+    background-color: white;
+}
+b{
+    font-weight: bold;
+}
+x{
+    color: red;
+}
+

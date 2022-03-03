@@ -29,14 +29,27 @@ h6{
 }
 p{
         font-family:"Hubballi" cursive;
-        background-color:aqua;
         width: 300px;
-        height: 100px;
+        height: 10px;
+        margin: 2rem;
+}
+.hu{
+        border-radius: 14% 23% 13% /13px;
+        border:dashed aqua;
+        padding: 2rem;
+        height: 35px;
+        
+}
+.ha{
+        border: double rgb(47, 179, 255);
+        word-spacing:normal;
+        border-radius:15% / 15%;
+        padding: 2rem;
+}
 
-}
-#hu{
-        word-spacing:2rem;
-}
-#ha{
-        word-spacing:100px;
+.radios{
+        border-radius: 15% 15% 70% 70%;
+        border:solid rgb(25, 0, 255);
+        height: 35px;
+        padding: 2rem;
 }
