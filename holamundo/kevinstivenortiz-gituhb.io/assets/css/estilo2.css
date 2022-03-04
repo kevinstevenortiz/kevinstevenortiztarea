@@ -36,3 +36,10 @@ x{
     color: #0088CB;
     font-weight: 3px;
 }
+.forma{
+    background: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: normal;
+    font-weight: bold;
+}
